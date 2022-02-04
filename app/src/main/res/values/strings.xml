@@ -5,7 +5,8 @@
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Add 1</string>
-    <string name="previous">Previous</string>
+    <string name="start">Start Countdown</string>
+    <string name="stop">Stop Countdown</string>
 
     <string name="hello_first_fragment">Current count is 0</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>

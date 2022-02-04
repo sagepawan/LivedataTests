@@ -21,7 +21,7 @@ class FirstFragment : Fragment() {
     // onDestroyView.
     private val binding get() = _binding!!
 
-    lateinit var viewModel:FirstFragmentViewModel
+    private lateinit var viewModel:FirstFragmentViewModel
 
     lateinit var count: String
 
