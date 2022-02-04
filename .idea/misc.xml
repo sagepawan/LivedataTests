@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/AndroidProjects/ViewModelTest/app/src/main/res/layout/fragment_first.xml" value="0.20462962962962963" />
         <entry key="..\:/AndroidProjects/ViewModelTest/app/src/main/res/layout/fragment_second.xml" value="0.16084093211752787" />
+        <entry key="..\:/AndroidProjects/ViewModelTest/app/src/main/res/layout/item_todo.xml" value="0.16236068895643363" />
+        <entry key="..\:/AndroidProjects/ViewModelTest/app/src/main/res/layout/list_view_fragment.xml" value="0.15552178318135765" />
       </map>
     </option>
   </component>

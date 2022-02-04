@@ -23,10 +23,4 @@ class ListViewFragment : Fragment() {
         return inflater.inflate(R.layout.list_view_fragment, container, false)
     }
 
-    override fun onActivityCreated(savedInstanceState: Bundle?) {
-        super.onActivityCreated(savedInstanceState)
-        viewModel = ViewModelProvider(this).get(ListViewFragmentViewModel::class.java)
-        // TODO: Use the ViewModel
-    }
-
 }
